@@ -1,7 +1,10 @@
 ---
-editor_options: 
+title: "README"
+author: "Sebastian Ochoa, Andrea Valiente, Juliana Hernandez"
+date: "2024-12-09"
+editor options: 
   markdown: 
-    wrap: 72
+    
 ---
 
 ------------------------------------------------------------------------
@@ -10,10 +13,11 @@ editor_options:
 
 ------------------------------------------------------------------------
 
-Procesamiento digital de señales
-
-Carolina Corredor BMED B\
-UMNG
+```         
+                                              Procesamiento digital de señales, BMEDB
+                                                         Carolina Corredor 
+                                                                UMNG 
+```
 
 ------------------------------------------------------------------------
 
